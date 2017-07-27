@@ -12,4 +12,4 @@ My job working the Arlington Paving & Sealcoating is not only to build an amazin
 
 It's a challenge but I love it. Now time to build this amazing rails app so I can add more value to the companies I work with!
 
-[Local Driveway Pavers Arlington Texas](http://www.asphaltpavingarlingtontx.com/uploads/8/7/3/6/87366596/arlington-paving-sealcoating_orig.png)
+![Local Driveway Pavers Arlington Texas](http://www.asphaltpavingarlingtontx.com/uploads/8/7/3/6/87366596/arlington-paving-sealcoating_orig.png)
